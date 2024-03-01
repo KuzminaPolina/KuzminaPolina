@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuzminapolina&label=Profile%20views&color=0e75b6&style=flat" alt="kuzminapolina" /> </p>
 
-- 🔭 I’m currently working on a [website for travel company](https://kuzminapolina.github.io/Travels/)
+- 🔭 I’m currently working on a [a website for my friend who is an English teacher](https://github.com/KuzminaPolina/english-teacher-website)
 
 - 🌱 I’m currently learning **JavaScript and React**
 
