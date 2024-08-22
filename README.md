@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuzminapolina&label=Profile%20views&color=0e75b6&style=flat" alt="kuzminapolina" /> </p>
 
-- 🔭 I’m currently working on a [a scheduler app for teachers]([https://github.com/KuzminaPolina/english-teacher-website](https://github.com/KuzminaPolina/scheduling-app))
+- 🔭 I’m currently working on a [a scheduler app for teachers](https://github.com/KuzminaPolina/scheduling-app)
 
 - 🌱 I’m currently learning **TypeScript, React and MobX**
 
