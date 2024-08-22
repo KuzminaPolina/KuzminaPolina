@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kuzmina Polina</h1>
-<h3 align="center">I'm a frontend developer who loves to create smoothly working websites</h3>
+<h3 align="center">I'm a frontend developer</h3>
 <img align="right" alt="working" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDR0eTVhZ3h3OHlpbjl1ZmxxOXV6d3d2YWt4cnR4b2twdjkycGlxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuzminapolina&label=Profile%20views&color=0e75b6&style=flat" alt="kuzminapolina" /> </p>
 
-- 🔭 I’m currently working on a [a website for my friend who is an English teacher](https://github.com/KuzminaPolina/english-teacher-website)
+- 🔭 I’m currently working on a [a scheduler app for teachers]([https://github.com/KuzminaPolina/english-teacher-website](https://github.com/KuzminaPolina/scheduling-app))
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **TypeScript, React and MobX**
 
 - 💬 Ask me about **HTML&CSS**
 
