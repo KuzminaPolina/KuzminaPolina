@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuzminapolina&label=Profile%20views&color=0e75b6&style=flat" alt="kuzminapolina" /> </p>
 
-- 🔭 I’m currently working on a [a nuxt project]([https://github.com/KuzminaPolina/scheduling-app](https://github.com/KuzminaPolina/MY-NUXT-PROJECT))
+- 🔭 I’m currently working on a [a nuxt project](https://github.com/KuzminaPolina/scheduling-app](https://github.com/KuzminaPolina/MY-NUXT-PROJECT)
 
 - 🌱 I’m currently learning **Nuxt JS**
 
