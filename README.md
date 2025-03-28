@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Etein@yandex.ru**
 
-- 📄 Know about my experiences from my resume: [https://drive.google.com/file/d/1PtcrYBtjl-KbMHMZgxgNl03TBokj0Nqm/view?usp=drive_link](https://drive.google.com/file/d/1PtcrYBtjl-KbMHMZgxgNl03TBokj0Nqm/view?usp=drive_link)
+- 📄 Know about my experiences from my resume: [Kuzmina_CV](https://docs.google.com/document/d/1YGR55gIxLke6wrUKBLnhlZ1YNHVAYECj_M9I8kkFqhA/edit?usp=sharing)
 
 - ⚡ Fun fact **I speak Chinese and used to live in Taiwan**
 
